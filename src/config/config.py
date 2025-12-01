@@ -1,4 +1,3 @@
-# src/config/config.py
 from dataclasses import dataclass
 from typing import Tuple, List
 
